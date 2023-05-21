@@ -122,7 +122,8 @@ body {
   height: 36px;
   border-radius: 6px;
   background-color: #3162a2;
-  font-size: 15px;
+  letter-spacing: 1px;
+  font-size: 14px;
   line-height: 28px;
   text-transform: uppercase;
   color: #ffffff;
